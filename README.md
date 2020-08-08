@@ -17,27 +17,3 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-<!-- Iframe #1 -->
-<iframe id="iframe-container-1" src="https://mohamed.eldesouki.ca"></iframe>
-
-<!-- Iframe #2 -->
-<!-- <iframe id="iframe-container-2" src="iframe2.html"></iframe> -->
-
-
-<script>
-        
-window.addEventListener('message', function(e) {
-        var data = e.data.split('-'),
-                scroll_height = data[0],
-                iframe_id = data[1];
-
-        // Check message from which iframe
-        if(iframe_id == 'iframe1')
-                document.getElementById('iframe-container-1').style.height = scroll_height + 'px'; 
-        else if(iframe_id == 'iframe2')
-                document.getElementById('iframe-container-2').style.height = scroll_height + 'px'; 
-} , false);
-
-</script>
-
