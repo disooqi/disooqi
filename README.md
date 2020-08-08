@@ -16,25 +16,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<html>
-<head>
-<style type="text/css">
 
-#iframe-container-1 {
-        width: 100%;
-        border: none;
-        margin: 0 0 0 0;
-}
-
-#iframe-container-2 {
-        width: 100%;
-        border: none;
-}
-
-</style>
-</head>
-
-<body style="margin:0;padding:0;">
 
 <!-- Iframe #1 -->
 <iframe id="iframe-container-1" src="https://mohamed.eldesouki.ca"></iframe>
@@ -59,5 +41,3 @@ window.addEventListener('message', function(e) {
 
 </script>
 
-</body>
-</html>
