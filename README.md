@@ -17,21 +17,21 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-9.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 307 Contributions in year 2020
+> 🏆 307 Contributions in the year 2020
  > 
-> 📦 Used 2.8 MB in GitHub's Storage 
+> 📦 2.8 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 45 Public repositories
  > 
-> 🔑 25 Owned Private Repositories 
+> 🔑 25 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    90 commits     ██████░░░░░░░░░░░░░░░░░░░   24.06% 
@@ -40,7 +40,7 @@
 🌙 Night      49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
@@ -54,23 +54,23 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Toronto
+⌚︎ Time zone: America/Toronto
 
-💬 Languages: 
+💬 Programming Languages: 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-🔥 Editors: 
+🔥 Code Editors: 
 PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.97% 
