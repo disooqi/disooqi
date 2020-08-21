@@ -17,19 +17,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 308 Contributions in the year 2020
+> 🏆 308 Contributions in the Year 2020
  > 
 > 📦 2.8 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public repositories
+> 📜 45 Public Repositories
  > 
-> 🔑 25 Private repositories 
+> 🔑 25 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -54,15 +54,15 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: America/Toronto
+⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Code Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
 💻 Operating System: 
