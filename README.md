@@ -84,7 +84,7 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/disooqi/disooqi/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/disooqi/disooqi/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
