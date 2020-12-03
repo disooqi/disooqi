@@ -15,19 +15,19 @@
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 332 Contributions in the Year 2020
+> 🏆 335 Contributions in the Year 2020
  > 
 > 📦 2.8 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories
+> 📜 48 Public Repositories
  > 
 > 🔑 26 Private Repositories 
 
@@ -73,11 +73,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ███████░░░░░░░░░░░░░░░░░░   27.85% 
-Java                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+Python                   22 repos            ███████░░░░░░░░░░░░░░░░░░   27.5% 
+Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 
