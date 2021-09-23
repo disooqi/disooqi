@@ -19,11 +19,11 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.8%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 157 Contributions in the Year 2021
  > 
-> 📦 4.3 MB Used in Github's Storage 
+> 📦 4.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -87,6 +87,6 @@ Jupyter Notebook         8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/disooqi/disooqi/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
