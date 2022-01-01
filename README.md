@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 285 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
@@ -87,6 +87,6 @@ C#                       7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/disooqi/disooqi/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
