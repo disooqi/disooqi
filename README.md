@@ -21,15 +21,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 630 Contributions in the Year 2024
  > 
-> 📦 4.4 MB Used in GitHub's Storage 
+> 📦 150.4 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 57 Public Repositories 
  > 
-> 🔑 41 Private Repositories  
+> 🔑 102 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -40,14 +40,15 @@
 🌙 Night      83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+
+Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.45% 
 Tuesday      73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
 Wednesday    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
 Thursday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
-Friday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.45% 
+Friday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25%
 Saturday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
 Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
@@ -60,13 +61,13 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python, JavaScript
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm, VS Code
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux (Ubuntu)
 
 ```
 
