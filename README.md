@@ -4,12 +4,14 @@
 **disooqi/disooqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on A2
-- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: https://mohamed.eldesouki.com
+
 - 👯 I’m looking to collaborate on NLP projects
 <!--
+- 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: http://mohamed.eldesouki.ca
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -82,11 +84,11 @@ C#                       7 repos             ██░░░░░░░░░�
 
 ```
 
-
+<!--
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/disooqi/disooqi/master/charts/bar_graph.png) 
-
+-->
 
  Last Updated on 25/01/2022 01:16:42 UTC
 <!--END_SECTION:waka-->
